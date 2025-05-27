@@ -1,0 +1,240 @@
+{
+  "common": {
+    "marketplace": "Mercado",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "weather": "Clima",
+    "myProducts": "Mis Productos",
+    "myResources": "Mis Recursos",
+    "requests": "Solicitudes",
+    "profile": "Perfil",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar Sesión"
+  },
+  "home": {
+    "hero": {
+      "title": "Conectando Agricultores, Cultivando Comunidades",
+      "subtitle": "Únase a nuestra plataforma para intercambiar cultivos excedentes, compartir recursos y construir comunidades agrícolas más fuertes.",
+      "getStarted": "Comenzar",
+      "exploreMarketplace": "Explorar Mercado"
+    },
+    "features": {
+      "heading": "Cómo Funciona CropConnect",
+      "subheading": "Nuestra plataforma proporciona herramientas poderosas para ayudar a los pequeños agricultores a prosperar a través de la colaboración, la optimización de recursos y la construcción de comunidades.",
+      "sharing": {
+        "title": "Intercambio de Cultivos y Recursos",
+        "description": "Liste cultivos excedentes y equipos para intercambio o venta dentro de su comunidad."
+      },
+      "insights": {
+        "title": "Información del Mercado",
+        "description": "Acceda a datos de mercado en tiempo real y tendencias de precios para tomar decisiones informadas."
+      },
+      "community": {
+        "title": "Apoyo Comunitario",
+        "description": "Conéctese con agricultores locales para compartir conocimientos, consejos y mejores prácticas."
+      },
+      "planning": {
+        "title": "Planificación Estacional",
+        "description": "Planifique sus actividades agrícolas con calendarios estacionales y herramientas de optimización."
+      }
+    },
+    "marketPreview": {
+      "heading": "Listados Destacados del Mercado",
+      "subheading": "Descubra productos frescos locales y recursos agrícolas disponibles en su área",
+      "viewAll": "Ver Todos los Listados",
+      "crops": {
+        "tomatoes": {
+          "title": "Tomates Orgánicos Frescos",
+          "price": "$2.50/kg",
+          "location": "Greenfield",
+          "distance": "8 kilómetros",
+          "seller": "Juan Martínez"
+        },
+        "corn": {
+          "title": "Maíz Dulce",
+          "price": "$1.75/docena",
+          "location": "Riverside",
+          "distance": "5 kilómetros",
+          "seller": "Emma García"
+        },
+        "lettuce": {
+          "title": "Variedades de Lechuga Fresca",
+          "price": "$1.25/unidad",
+          "location": "Oakville",
+          "distance": "11 kilómetros",
+          "seller": "Roberto Jiménez"
+        }
+      }
+    },
+    "testimonials": {
+      "heading": "Historias de Nuestra Comunidad Agrícola",
+      "subheading": "Escuche a los agricultores que han utilizado con éxito CropConnect para transformar sus prácticas agrícolas y fortalecer su comunidad agrícola local.",
+      "farmer1": {
+        "quote": "CropConnect ha transformado completamente la forma en que gestiono los cultivos excedentes. En lugar de dejarlos desperdiciar, ahora puedo intercambiar con granjas vecinas y obtener beneficios.",
+        "name": "María Rodríguez",
+        "role": "Propietaria de Pequeña Granja",
+        "location": "Condado Riverside"
+      },
+      "farmer2": {
+        "quote": "La función de compartir recursos salvó nuestra cosecha. Cuando nuestro sistema de riego se averió, pudimos alquilar equipo de otra granja a través de la plataforma en menos de un día.",
+        "name": "Jaime Wilson",
+        "role": "Operador de Granja Familiar",
+        "location": "Valle Verde"
+      },
+      "farmer3": {
+        "quote": "Como nueva agricultora, los foros comunitarios proporcionan consejos invaluables. He aprendido mucho de agricultores experimentados que siempre están dispuestos a compartir sus conocimientos.",
+        "name": "Sara Thompson",
+        "role": "Agricultora Principiante",
+        "location": "Colinas de la Cosecha"
+      }
+    }
+  },
+  "weather": {
+    "title": "Pronóstico del Tiempo",
+    "subtitle": "Consulte el pronóstico del tiempo de 5 días y reciba alertas por condiciones irregulares",
+    "searchPlaceholder": "Ingrese el nombre de la ciudad",
+    "notificationSettings": "Configuración de Notificaciones",
+    "smsNotifications": "Notificaciones SMS",
+    "phoneNumber": "Ingrese número de teléfono",
+    "noData": "No hay datos de pronóstico disponibles",
+    "loading": "Cargando datos del pronóstico..."
+  },
+  "marketplace": {
+    "title": "Mercado de Cultivos",
+    "subtitle": {
+      "farmer": "Liste sus cultivos excedentes para la venta o encuentre lo que otros agricultores están ofreciendo",
+      "retailer": "Encuentre cultivos frescos de agricultores locales para su negocio minorista"
+    },
+    "addCrop": "Añadir Nuevo Cultivo",
+    "joinPrompt": "Añadir sus cultivos al mercado",
+    "joinRetailer": "Únase para conectarse con agricultores",
+    "search": "Buscar cultivos, frutas, verduras...",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "loading": "Cargando productos...",
+    "noProducts": "No se encontraron productos",
+    "adjustSearch": "Intente ajustar sus criterios de búsqueda o filtro.",
+    "filterOptions": "Opciones de Filtro",
+    "forSale": "Solo para Venta",
+    "forBarter": "Solo para Trueque",
+    "within5": "Dentro de 8 kilómetros",
+    "within10": "Dentro de 16 kilómetros",
+    "within25": "Dentro de 40 kilómetros",
+    "sortBy": "Ordenar Por",
+    "newest": "Más Recientes Primero",
+    "priceLow": "Precio: De Menor a Mayor",
+    "priceHigh": "Precio: De Mayor a Menor",
+    "nearest": "Distancia: Más Cercanos"
+  },
+  "community": {
+    "title": "Centro Comunitario",
+    "subtitle": "Conéctese con otros agricultores, comparta conocimientos y participe en eventos agrícolas locales",
+    "discussions": "Debates",
+    "events": "Eventos",
+    "groups": "Grupos",
+    "recentDiscussions": "Debates Recientes",
+    "newTopic": "Nuevo Tema",
+    "upcomingEvents": "Próximos Eventos",
+    "createEvent": "Crear Evento",
+    "farmerGroups": "Grupos de Agricultores",
+    "createGroup": "Crear Grupo",
+    "replies": "respuestas",
+    "attending": "asistiendo",
+    "viewDetails": "Ver Detalles",
+    "joinGroup": "Unirse al Grupo",
+    "date": "Fecha",
+    "location": "Ubicación"
+  },
+  "products": {
+    "addProduct": "Añadir Producto",
+    "productAdded": "¡Producto añadido!",
+    "addedToMarketplace": "ha sido añadido al mercado",
+    "error": "Error",
+    "addProductError": "Error al añadir producto. Por favor, inténtelo de nuevo.",
+    "productDeleted": "¡Producto eliminado!",
+    "deleteSuccess": "El producto ha sido eliminado exitosamente.",
+    "deleteError": "Error al eliminar producto. Por favor, inténtelo de nuevo.",
+    "confirmDelete": "¿Está seguro de que desea eliminar este producto?",
+    "noProducts": "No hay productos listados todavía."
+  },
+  "resources": {
+    "addResource": "Añadir Recurso",
+    "resourceAdded": "¡Recurso añadido!",
+    "addedSuccessfully": "ha sido añadido exitosamente",
+    "error": "Error",
+    "addResourceError": "Error al añadir recurso. Por favor, inténtelo de nuevo.",
+    "resourceDeleted": "¡Recurso eliminado!",
+    "deleteSuccess": "El recurso ha sido eliminado exitosamente.",
+    "deleteError": "Error al eliminar recurso. Por favor, inténtelo de nuevo.",
+    "confirmDelete": "¿Está seguro de que desea eliminar este recurso?",
+    "noResources": "No hay recursos listados todavía.",
+    "addFirstResource": "Añadir Su Primer Recurso",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "sharing": {
+      "title": "Compartir Recursos",
+      "subtitle": "Encuentre equipos, herramientas, almacenamiento y otros recursos agrícolas para alquilar de granjas vecinas",
+      "searchPlaceholder": "Buscar equipos, almacenamiento, herramientas...",
+      "filter": "Filtrar",
+      "filterOptions": "Opciones de Filtro",
+      "sort": "Ordenar",
+      "sortBy": "Ordenar Por",
+      "loading": "Cargando recursos...",
+      "noResults": "No se encontraron recursos",
+      "tryAdjusting": "Intente ajustar sus criterios de búsqueda o filtro.",
+      "addYourFirst": "Añada Su Primer Recurso"
+    },
+    "requests": {
+      "title": "Solicitudes de Recursos",
+      "received": "Solicitudes Recibidas",
+      "sent": "Solicitudes Enviadas",
+      "manageRequests": "Gestione las solicitudes de otros agricultores para sus recursos",
+      "trackRequests": "Siga el estado de las solicitudes que ha enviado a otros agricultores",
+      "resource": "Recurso",
+      "requester": "Solicitante",
+      "owner": "Propietario",
+      "dates": "Fechas",
+      "payment": "Pago",
+      "status": "Estado",
+      "actions": "Acciones",
+      "requestedOn": "Solicitado El",
+      "approve": "Aprobar",
+      "reject": "Rechazar",
+      "noActions": "No hay acciones disponibles",
+      "noReceived": "No tiene ninguna solicitud de recursos recibida todavía.",
+      "noSent": "No ha enviado ninguna solicitud de recursos todavía.",
+      "loading": "Cargando solicitudes..."
+    },
+    "form": {
+      "addNew": "Añadir Nuevo Recurso",
+      "editResource": "Editar Recurso",
+      "addDescription": "Liste sus recursos agrícolas para que otros agricultores los puedan pedir prestados o alquilar",
+      "editDescription": "Actualice su listado de recursos",
+      "resourceName": "Nombre del Recurso",
+      "resourceNamePlaceholder": "ej. Tractor con Implementos",
+      "description": "Descripción",
+      "descriptionPlaceholder": "Describa su recurso (condición, especificaciones, etc.)",
+      "price": "Precio",
+      "pricePlaceholder": "ej. $100",
+      "priceType": "Tipo de Precio",
+      "availability": "Disponibilidad",
+      "availabilityPlaceholder": "ej. Lun-Vie, Fines de semana, etc.",
+      "condition": "Condición",
+      "location": "Ubicación",
+      "locationPlaceholder": "ej. Campo Verde",
+      "imageUrl": "URL de la Imagen del Recurso",
+      "requiredFields": "Por favor, complete todos los campos requeridos",
+      "cancel": "Cancelar",
+      "submit": "Enviar",
+      "updating": "Actualizando...",
+      "adding": "Añadiendo..."
+    }
+  },
+  "callToAction": {
+    "title": "¿Listo para Transformar su Experiencia Agrícola?",
+    "subtitle": "Únase a miles de agricultores que ya utilizan CropConnect para intercambiar cultivos, compartir recursos y construir comunidades agrícolas prósperas.",
+    "createAccount": "Cree su Cuenta Gratuita",
+    "learnMore": "Conozca Más Sobre Nosotros"
+  }
+}
