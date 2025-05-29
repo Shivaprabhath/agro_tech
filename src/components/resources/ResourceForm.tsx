@@ -21,7 +21,6 @@ import {
   CardHeader, 
   CardTitle 
 } from "@/components/ui/card";
-
 export interface ResourceFormData {
   title: string;
   imageUrl: string;
@@ -32,7 +31,6 @@ export interface ResourceFormData {
   location: string;
   description: string;
 }
-
 interface ResourceFormProps {
   initialData?: ResourceFormData;
   onSubmit: (resourceData: ResourceFormData) => Promise<void>;
@@ -40,7 +38,6 @@ interface ResourceFormProps {
   isSubmitting: boolean;
   cancelPath?: string;
 }
-
 const ResourceForm = ({
   initialData = {
     title: "",
@@ -66,11 +63,9 @@ const ResourceForm = ({
     const { name, value } = e.target;
     setResource(prev => ({ ...prev, [name]: value }));
   };
-
   const handleSelectChange = (name: string, value: string) => {
     setResource(prev => ({ ...prev, [name]: value }));
   };
-
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     

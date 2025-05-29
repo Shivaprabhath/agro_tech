@@ -18,7 +18,6 @@ export interface ProductFormData {
   tradeOption: string;
   imageUrl: string;
 }
-
 interface ProductFormProps {
   initialData?: ProductFormData;
   onSubmit: (productData: ProductFormData) => Promise<void>;
@@ -26,7 +25,6 @@ interface ProductFormProps {
   isSubmitting: boolean;
   cancelPath?: string;
 }
-
 const ProductForm = ({
   initialData = {
     title: "",
@@ -54,7 +52,6 @@ const ProductForm = ({
   const handleSelectChange = (name: string, value: string) => {
     setProduct(prev => ({ ...prev, [name]: value }));
   };
-
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     
