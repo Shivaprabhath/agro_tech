@@ -111,9 +111,11 @@ A machine learning-based system that allows farmers to:
 - Upload or capture images of crop leaves
 - Automatically detect plant diseases using AI
 - Get immediate feedback, diagnosis, and suggestions
-  ![alt text](<WhatsApp Image 2025-05-30 at 12.36.14_9cb2b1a4.jpg>)
-  ![alt text](<WhatsApp Image 2025-05-30 at 12.36.15_1ad40855.jpg>)
 
+<p float="left">
+  <img src="WhatsApp Image 2025-05-30 at 12.36.14_9cb2b1a4.jpg" width="250"/>
+  <img src="WhatsApp Image 2025-05-30 at 12.36.15_1ad40855.jpg" width="250"/>
+</p>
 ---
 
 ### 8. 🧠 RAG-Based Multilingual Chatbot
