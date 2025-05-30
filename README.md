@@ -15,6 +15,7 @@ Small farmers in rural areas often struggle to:
 Without a platform for exchanging goods and services, farmers waste valuable resources and miss out on opportunities to collaborate and grow.
 
 **PPT** :https://docs.google.com/presentation/d/1a5wFD6Pp175TXrfo94ABVMAQ7dagYwY_
+
 **Reference Video** :https://drive.google.com/file/d/1nMSTJpyaNcAyWn38NCoG32Jkn7RWzOqY/view
 
 ---
