@@ -112,9 +112,9 @@ A machine learning-based system that allows farmers to:
 - Automatically detect plant diseases using AI
 - Get immediate feedback, diagnosis, and suggestions
 
-<p float="left">
-  <img src="WhatsApp Image 2025-05-30 at 12.36.14_9cb2b1a4.jpg" width="250"/>
-  <img src="WhatsApp Image 2025-05-30 at 12.36.15_1ad40855.jpg" width="250"/>
+<p align="center">
+  <img src="WhatsApp Image 2025-05-30 at 12.36.14_9cb2b1a4.jpg" alt="Screenshot 1" style="width: 48%; margin-right: 2%;" />
+  <img src="WhatsApp Image 2025-05-30 at 12.36.15_1ad40855.jpg" alt="Screenshot 2" style="width: 48%;" />
 </p>
 ---
 
