@@ -26,7 +26,11 @@ AgroTech provides a structured, easy-to-use platform with the following key obje
 - 🤝 **Encourage Collaboration**
 - 💡 **Alleviate Financial Strain**
 - 🌱 **Promote Sustainability**
-  ![alt text](image.png)
+
+  <p align="center">
+  <img src="image.png" alt="Image 1" style="width: 48%; margin-right: 2%;" />
+
+</p>
 
 ---
 
@@ -42,7 +46,11 @@ Farmers can list their excess crops with details such as:
 - Location
 
 Buyers including local markets, supermarkets, or individuals can browse and filter listings, and purchase directly. This minimizes transportation costs and reduces crop wastage.
-![alt text](<WhatsApp Image 2025-05-30 at 16.27.12_4034abcb.jpg>)
+
+<p align="center">
+  <img src="WhatsApp Image 2025-05-30 at 16.27.12_4034abcb.jpg" alt="Image 1" style="width: 48%; margin-right: 2%;" />
+ 
+</p>
 
 ---
 
@@ -55,8 +63,11 @@ Farmers can list farming tools, irrigation equipment, and other resources to:
 - **Barter**
 
 Others in the community can browse, request, and negotiate terms directly, ensuring efficient resource utilization and fostering mutual support.
-![alt text](<WhatsApp Image 2025-05-30 at 16.27.41_5c155562.jpg>)
-![alt text](<WhatsApp Image 2025-05-30 at 16.28.05_bdaee995.jpg>)
+
+<p align="center">
+  <img src="WhatsApp Image 2025-05-30 at 16.27.41_5c155562.jpg" alt="Image 1" style="width: 48%; margin-right: 2%;" />
+  <img src="WhatsApp Image 2025-05-30 at 16.28.05_bdaee995.jpg" alt="Image 2" style="width: 48%;" />
+</p>
 
 ---
 
@@ -65,7 +76,11 @@ Others in the community can browse, request, and negotiate terms directly, ensur
 A unique trade mechanism where farmers can exchange resources or crops without monetary transactions.  
 Example: One farmer trades irrigation equipment for another farmer’s surplus rice.  
 This promotes cost-saving and enhances community collaboration.
-![alt text](<WhatsApp Image 2025-05-30 at 16.28.18_63a8ec0a.jpg>)
+
+<p align="center">
+  <img src="WhatsApp Image 2025-05-30 at 16.28.18_63a8ec0a.jpg" alt="Image 1" style="width: 48%; margin-right: 2%;" />
+ 
+</p>
 
 ---
 
@@ -75,8 +90,10 @@ Integrated with live weather APIs to provide:
 
 - Real-time alerts about droughts, rainfall, and extreme conditions
 - Notifications that help farmers plan and protect their crops efficiently
-  ![alt text](image-5.png)
-  ![alt text](<WhatsApp Image 2025-05-30 at 16.26.00_56953b33.jpg>)
+  <p align="center">
+  <img src="image-5.png" alt="Image 1" style="width: 48%; margin-right: 2%;" />
+  <img src="WhatsApp Image 2025-05-30 at 16.26.00_56953b33.jpg" alt="Image 2" style="width: 48%;" />
+</p>
 
 ---
 
@@ -89,7 +106,11 @@ A dedicated space for farmers to:
 - Discuss best practices
 
 This peer-to-peer learning environment strengthens the farming community and boosts productivity.
-![alt text](image-3.png)
+
+<p align="center">
+  <img src="image-3.png" alt="Image 1" style="width: 48%; margin-right: 2%;" />
+ 
+</p>
 
 ---
 
@@ -99,8 +120,11 @@ To ensure accessibility and inclusivity, the platform offers support for multipl
 
 - Navigate the platform easily
 - Communicate and collaborate without language barriers
-  ![alt text](image-1.png)
-  ![alt text](image-2.png)
+
+<p align="center">
+  <img src="image-1.png" alt="Image 1" style="width: 48%; margin-right: 2%;" />
+  <img src="image-2.png" alt="Image 2" style="width: 48%;" />
+</p>
 
 ---
 
@@ -116,6 +140,7 @@ A machine learning-based system that allows farmers to:
   <img src="WhatsApp Image 2025-05-30 at 12.36.14_9cb2b1a4.jpg" alt="Screenshot 1" style="width: 48%; margin-right: 2%;" />
   <img src="WhatsApp Image 2025-05-30 at 12.36.15_1ad40855.jpg" alt="Screenshot 2" style="width: 48%;" />
 </p>
+
 ---
 
 ### 8. 🧠 RAG-Based Multilingual Chatbot
