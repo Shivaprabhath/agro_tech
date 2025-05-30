@@ -109,32 +109,38 @@ Make sure you have the following installed:
 
 ### 🔗 Clone the Repository
 
-````bash
+```bash
 git clone https://github.com/Shivaprabhath/agro_tech.git
 cd agro_tech
+```
 
 ### ⚙️ Running the Project
+
 📝 Important: You need to open three separate terminal windows/tabs in your IDE (e.g., VS Code) and run each part independently.
 
 ### 🖥️ Terminal 1 — Run the Frontend
+
 ```bash
 cd /
 npm install
 npm run dev
+```
 
 ### 🛠️ Terminal 2 — Run the Backend
+
 ```bash
 cd client
 npm install
 npm run dev
+```
 
 ### 🧠 Terminal 3 — Run the Python Diagnosis Server
+
 ```bash
 cd python
 pip install -r requirements.txt
 python diagnosis_api.py
 ```
-
 
 ## 🛠️ Tech Stack
 
@@ -173,4 +179,7 @@ AgroTech aims to build a sustainable, collaborative ecosystem that empowers farm
 ## 📄 License
 
 [MIT License](LICENSE)
-````
+
+```
+
+```
