@@ -26,6 +26,7 @@ AgroTech provides a structured, easy-to-use platform with the following key obje
 - 🤝 **Encourage Collaboration**
 - 💡 **Alleviate Financial Strain**
 - 🌱 **Promote Sustainability**
+  ![alt text](image.png)
 
 ---
 
@@ -41,6 +42,7 @@ Farmers can list their excess crops with details such as:
 - Location
 
 Buyers including local markets, supermarkets, or individuals can browse and filter listings, and purchase directly. This minimizes transportation costs and reduces crop wastage.
+![alt text](<WhatsApp Image 2025-05-30 at 16.27.12_4034abcb.jpg>)
 
 ---
 
@@ -53,6 +55,8 @@ Farmers can list farming tools, irrigation equipment, and other resources to:
 - **Barter**
 
 Others in the community can browse, request, and negotiate terms directly, ensuring efficient resource utilization and fostering mutual support.
+![alt text](<WhatsApp Image 2025-05-30 at 16.27.41_5c155562.jpg>)
+![alt text](<WhatsApp Image 2025-05-30 at 16.28.05_bdaee995.jpg>)
 
 ---
 
@@ -61,6 +65,7 @@ Others in the community can browse, request, and negotiate terms directly, ensur
 A unique trade mechanism where farmers can exchange resources or crops without monetary transactions.  
 Example: One farmer trades irrigation equipment for another farmer’s surplus rice.  
 This promotes cost-saving and enhances community collaboration.
+![alt text](<WhatsApp Image 2025-05-30 at 16.28.18_63a8ec0a.jpg>)
 
 ---
 
@@ -70,6 +75,8 @@ Integrated with live weather APIs to provide:
 
 - Real-time alerts about droughts, rainfall, and extreme conditions
 - Notifications that help farmers plan and protect their crops efficiently
+  ![alt text](image-5.png)
+  ![alt text](<WhatsApp Image 2025-05-30 at 16.26.00_56953b33.jpg>)
 
 ---
 
@@ -82,6 +89,7 @@ A dedicated space for farmers to:
 - Discuss best practices
 
 This peer-to-peer learning environment strengthens the farming community and boosts productivity.
+![alt text](image-3.png)
 
 ---
 
@@ -91,6 +99,34 @@ To ensure accessibility and inclusivity, the platform offers support for multipl
 
 - Navigate the platform easily
 - Communicate and collaborate without language barriers
+  ![alt text](image-1.png)
+  ![alt text](image-2.png)
+
+---
+
+### 7. 🌿 AI-Powered Crop Disease Detection
+
+A machine learning-based system that allows farmers to:
+
+- Upload or capture images of crop leaves
+- Automatically detect plant diseases using AI
+- Get immediate feedback, diagnosis, and suggestions
+  ![alt text](<WhatsApp Image 2025-05-30 at 12.36.14_9cb2b1a4.jpg>)
+  ![alt text](<WhatsApp Image 2025-05-30 at 12.36.15_1ad40855.jpg>)
+
+---
+
+### 8. 🧠 RAG-Based Multilingual Chatbot
+
+A Retrieval-Augmented Generation (RAG) chatbot trained on agricultural resources (e.g., ICAR–CRIDA data) that helps farmers:
+
+- Get answers to farming-related queries
+- Access information in **multiple regional languages**
+- Understand best practices for crop management, irrigation, and pest control
+
+## This chatbot acts as a personal farming assistant that’s always available and multilingual.
+
+## This feature helps farmers take early action to protect crops and reduce yield loss.
 
 ---
 
