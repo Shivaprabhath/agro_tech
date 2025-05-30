@@ -133,7 +133,7 @@ npm run dev
 cd python
 pip install -r requirements.txt
 python diagnosis_api.py
-
+```
 
 
 ## 🛠️ Tech Stack
