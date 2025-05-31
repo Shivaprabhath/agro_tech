@@ -185,6 +185,14 @@ cd agro_tech
 
 📝 Important: You need to open three separate terminal windows/tabs in your IDE (e.g., VS Code) and run each part independently.
 
+**Include .env file in the repo**
+
+```bash
+PORT=5000
+MONGODB_URI=mongodb+srv://d5r33ja:Sreeja2110@cluster0.fjc5ym9.mongodb.net/test
+JWT_SECRET=your_secure_jwt_secret_key_change_this_in_production
+```
+
 ### 🖥️ Terminal 1 — Run the Frontend
 
 ```bash
