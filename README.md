@@ -16,7 +16,7 @@ Without a platform for exchanging goods and services, farmers waste valuable res
 
 **PPT** : https://docs.google.com/presentation/d/1a5wFD6Pp175TXrfo94ABVMAQ7dagYwY_/edit
 
-**Reference Video** : https://drive.google.com/file/d/1nMSTJpyaNcAyWn38NCoG32Jkn7RWzOqY/view
+**Reference Video** : https://drive.google.com/file/d/1nMSTJpyaNcAyWn38NCoG32Jkn7RWzOqY/view (1.5x speed for better experince)
 
 ---
 
