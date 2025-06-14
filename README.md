@@ -14,10 +14,6 @@ Small farmers in rural areas often struggle to:
 
 Without a platform for exchanging goods and services, farmers waste valuable resources and miss out on opportunities to collaborate and grow.
 
-**PPT** : https://docs.google.com/presentation/d/1a5wFD6Pp175TXrfo94ABVMAQ7dagYwY_/edit
-
-**Reference Video** : https://drive.google.com/file/d/1nMSTJpyaNcAyWn38NCoG32Jkn7RWzOqY/view (1.5x speed for better experince)
-
 ---
 
 ## ✅ Our Solution
@@ -161,62 +157,6 @@ A Retrieval-Augmented Generation (RAG) chatbot trained on agricultural resources
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to set up the **AgroTech** project on your local machine.
-
-### 🧰 Prerequisites
-
-Make sure you have the following installed:
-
-- **Node.js** and **npm**: [Download & Install Node.js](https://nodejs.org/)
-- **Python** and **pip**: [Download & Install Python](https://www.python.org/)
-
----
-
-### 🔗 Clone the Repository
-
-```bash
-git clone https://github.com/Shivaprabhath/agro_tech.git
-cd agro_tech
-```
-
-### ⚙️ Running the Project
-
-📝 Important: You need to open three separate terminal windows/tabs in your IDE (e.g., VS Code) and run each part independently.
-
-**Include .env file in the repo**
-
-```bash
-PORT=5000
-MONGODB_URI=mongodb+srv://d5r33ja:Sreeja2110@cluster0.fjc5ym9.mongodb.net/test
-JWT_SECRET=your_secure_jwt_secret_key_change_this_in_production
-```
-
-### 🖥️ Terminal 1 — Run the Frontend
-
-```bash
-cd /
-npm install
-npm run dev
-```
-
-### 🛠️ Terminal 2 — Run the Backend
-
-```bash
-cd client
-npm install
-npm run dev
-```
-
-### 🧠 Terminal 3 — Run the Python Diagnosis Server
-
-```bash
-cd python
-pip install -r requirements.txt
-python diagnosis_api.py
-```
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js
@@ -254,7 +194,3 @@ AgroTech aims to build a sustainable, collaborative ecosystem that empowers farm
 ## 📄 License
 
 [MIT License](LICENSE)
-
-```
-
-```
